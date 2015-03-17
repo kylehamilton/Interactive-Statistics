@@ -23,7 +23,12 @@ The app is developed using following R packages
 
 ## Future Development
 1. Development of customized apps for different types of data analysis and visualization
-  * Visualizations: Line plot, Bar graphs, etc.
+  * Visualizations: 
+    * Line plot, Bar graphs, etc.
+    * Time series data chart
+    * Network
+    * 3D scatter plot
+    * etc.
   * Statistical analysis: 
     * t-tests (single-sample, independent sample, paired)
     * one-/multi-way ANOVA 
@@ -31,13 +36,16 @@ The app is developed using following R packages
     * Principal component analysis 
     * etc.
 2. Hosting/Sharing the apps 
-  * In the cloud on [Shinyapps.io](http://www.shinyapps.io/). Share the app by providing link to the app. Example: The Interactive-Statistics app can be accessed online from [Shinyapps.io cloud](https://r-world.shinyapps.io/Interactive-Statistics/)
+  * In the cloud on [Shinyapps.io](http://www.shinyapps.io/). Share the app by providing link to the app. 
+  
+    Example: The Interactive-Statistics app can be accessed online from [Shinyapps.io cloud](https://r-world.shinyapps.io/Interactive-Statistics/)
   * By installing [Shiny server](http://www.rstudio.com/products/shiny/shiny-server/) 
   * Share through [Git Hub](http://github.com/)
 
 ## About the author
 Currently pursuing PhD at Bioinformatics Centre, University of Pune, Pune, India.
 I have developed a statistical algorithm for alignment-free sequence analysis with its applications in molecular phylogeny, clustering and sero/genotyping.
+
 Find more about me from
   * Personal website: http://biosakshat.wix.com/pandurang-kolekar
   * Google scholar: http://scholar.google.co.in/citations?user=Sf0vQAwAAAAJ
