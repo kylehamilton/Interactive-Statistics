@@ -13,13 +13,13 @@ Shiny App for interactive data display, analysis and scatter plot visualization
 ## Description
 The app is developed using following R packages
   1. [shiny](http://shiny.rstudio.com/) : A new way to build web applications in R
-  2. [htmlwidgets](http://www.htmlwidgets.org/): Javascript data visualization to R
+  2. [htmlwidgets](http://www.htmlwidgets.org/): JavaScript data visualization to R
   3. [DT](http://rstudio.github.io/DT/): JavaScript/D3 chart library for htmlwidget
   4. [metricsgraphics](): JavaScript/DataTables library for htmlwidget
 
 ## Usage
   1. The app can be accessed online from [Shinyapps.io cloud](https://r-world.shinyapps.io/Interactive-Statistics/)
-  2. Install the packages mentioned in description before running the app. Download ui.R and server.R files in a folder and run the through RStudio. 
+  2. Install the packages mentioned in description section. Download ui.R and server.R files in a folder and run through R Studio. 
 
 ## Future Development
 1. Development of customized apps for different types of data analysis and visualization
