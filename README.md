@@ -20,9 +20,11 @@ The app is developed using following R packages
 ## Usage
   1. The app can be accessed online from [Shinyapps.io cloud](https://r-world.shinyapps.io/Interactive-Statistics/)
   2. Install the packages mentioned in description section. Download ui.R and server.R files in a folder and run through R Studio. 
+
 ## Sample input files
   1. testIris.csv
   2. testMtcars.csv
+
 ## Future Development
 1. Development of customized apps for different types of data analysis and visualization
   * Visualizations: 
