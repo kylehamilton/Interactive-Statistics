@@ -34,17 +34,13 @@ shinyUI(pageWithSidebar(
       a("pandurang.kolekar@gmail.com", href = "mailto:pandurang.kolekar@gmail.com"),br(),
       a("Visit my webpage.", href = "http://biosakshat.wix.com/pandurang-kolekar")
     ),
+    tabsetPanel(
+      #To visualize tabular data
+      tabPanel("Table", uiOutput("msg"), dataTableOutput('filetable')), 
+      #To plot the selected variables
+      tabPanel("Plot", uiOutput("plot_msg"), metricsgraphicsOutput('plot')),
+      tabPanel("Summary", uiOutput("summary_msg"),verbatimTextOutput("summary")) 
+    )    
     
-    uiOutput("msg"),
-        
-    #To visualize tabular data
-    dataTableOutput('filetable'),
-    
-    uiOutput("summary_msg"),
-    verbatimTextOutput("summary"),
-    
-    #To plot the selected variables
-    uiOutput("plot_msg"),
-    metricsgraphicsOutput('plot')
   )
 ))
