@@ -47,13 +47,15 @@ The app is developed using following R packages
   * Share through [Git Hub](http://github.com/)
 
 ## About the author
-Currently pursuing PhD at Bioinformatics Centre, University of Pune, Pune, India.
-I have developed a statistical algorithm for alignment-free sequence analysis with its applications in molecular phylogeny, clustering and sero/genotyping.
+Completed PhD in Bioinformatics from Bioinformatics Centre, University of Pune, Pune, India. I developed a statistical algorithm for alignment-free sequence analysis with its applications in molecular phylogeny, clustering and sero/genotyping as part of my doctoral thesis.
+
+Currently working as Bioinformatics Engineer III cum Data Scientist at Strand Life Sciences Pvt Ltd, leading Indian Bioinformatics company located at Bengaluru.
 
 Find more about me from
   * Personal website: http://biosakshat.wix.com/pandurang-kolekar
   * Google scholar: http://scholar.google.co.in/citations?user=Sf0vQAwAAAAJ
   * ORCID: http://orcid.org/0000-0003-0044-0076
+  * LinkedIn: https://www.linkedin.com/in/pandurang-kolekar-14baa259
 
 ## Contact
  For suggestions and queries shoot me email at pandurang.kolekar@gmail.com
